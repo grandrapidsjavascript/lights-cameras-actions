@@ -1,4 +1,4 @@
-// # [GRJS...](/docs/)gulpfile.js
+// # [GRJS...](/lights-cameras-actions/)gulpfile.js
 // ## gulpfile
 //
 // A [gulpfile](https://gulpjs.com/docs/en/getting-started/javascript-and-gulpfiles) is an implementation description file for **Gulp**.
