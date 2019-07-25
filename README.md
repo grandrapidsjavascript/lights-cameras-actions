@@ -1,1 +1,2 @@
 # lights-cameras-actions
+# [Documentation](/)
