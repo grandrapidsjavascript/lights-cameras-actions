@@ -1,4 +1,4 @@
-// # [GRJS...](/docs/)index.js
+// # [GRJS...](/lights-cameras-actions/)index.js
 // ## JavaScript Cameras
 //
 // JavaScript that makes cameras do things and behave certain ways.

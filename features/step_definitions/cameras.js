@@ -1,4 +1,4 @@
-// # [GRJS...](/docs/)cameras.js
+// # [GRJS...](/lights-cameras-actions/)cameras.js
 // ## Step Definitions
 //
 // A step definition adds implemntation details to statements and should be used by Features. <br/>
